@@ -1,2 +1,1 @@
-# C-projects
-C programming projects
+Directory for Project 3
