@@ -1,2 +1,0 @@
-invalid arguments
-usage: chop command* (infile|-) (outfile|-)
